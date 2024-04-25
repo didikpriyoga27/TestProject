@@ -12,7 +12,7 @@ class InitScreen extends Component {
   render() {
     return (
       <View className={'flex-1 items-center justify-center'}>
-        <Text className="text-red-500">CUEHAIDJE</Text>
+        <Text className="text-red-500">ajhdakljxleajdioa</Text>
       </View>
     );
   }

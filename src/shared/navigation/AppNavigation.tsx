@@ -10,6 +10,7 @@ export const navigationRef = React.createRef();
 
 export default function AppNavigation() {
   return (
+    //@ts-ignore
     <NavigationContainer ref={navigationRef}>
       <Stack.Navigator
         screenOptions={{
