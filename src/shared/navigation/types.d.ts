@@ -1,0 +1,3 @@
+type RootParamList = {
+  InitScreen: undefined;
+};
